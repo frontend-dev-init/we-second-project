@@ -5,6 +5,14 @@ Second Weekend Project. The Project is about us getting my feet wet into the Boo
 
 ![alt](assets/images/reference.jpg)
 
+This is a template that has been taken from [Pinterest](https://www.pinterest.com/pin/566186984394519198/). The author of this beautiful piece of reference is [Szabolcs Bakos](https://twitter.com/wishmylove/).
+
+### Important Additional Information
+
+![alt](assets/images/udacity_ui_kit.png)
+
+This is the Udacity UI Kit v2. The image has been taken from [Pinterest](https://in.pinterest.com/pin/441212094730070370/). The author is unknown to me.
+
 ### Features
 
 #### LESS / CSS Stuff
